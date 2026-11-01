@@ -1,6 +1,7 @@
 # 🚀 WebDev & Game Development Demo
 
-Welcome to my learning playground! This repository documents my foundational journey into software development, web technologies, and game programming.
+Welcome to my learning playground!
+ This repository documents my foundational journey into software development, web technologies, and game programming.
 
 ## 🛠️ Tech Stack & Skills
 I am currently building competence across the following languages and technologies:
@@ -21,4 +22,4 @@ I am currently building competence across the following languages and technologi
 * Build foundational game physics and loop structures using C++ and web technologies.
 
 ---
-*Built with dedication by Ajay Rohilla.*
+*Built Ajay Rohilla.*
